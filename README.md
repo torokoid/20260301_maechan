@@ -327,7 +327,7 @@ p.note { display: none; }
 <a href="20260301_064.JPG" target="_blank"><img src="20260301_064.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 
-<h2><span class="yellow">星空も綺麗で、カノープスもしっかり見えました</span></h2>
+<h2><span class="yellow">月が明るい月明（げつめい）状態でしたが、カノープスはしっかり見えました</span></h2>
 <a href="20260301_065.JPG" target="_blank"><img src="20260301_065.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <!--
